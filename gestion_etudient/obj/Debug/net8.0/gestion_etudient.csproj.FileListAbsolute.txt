@@ -1,0 +1,14 @@
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\obj\Debug\net8.0\gestion_etudient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\obj\Debug\net8.0\gestion_etudient.AssemblyInfoInputs.cache
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\obj\Debug\net8.0\gestion_etudient.AssemblyInfo.cs
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\obj\Debug\net8.0\gestion_etudient.csproj.CoreCompileInputs.cache
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\bin\Debug\net8.0\gestion_etudient.exe
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\bin\Debug\net8.0\gestion_etudient.deps.json
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\bin\Debug\net8.0\gestion_etudient.runtimeconfig.json
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\bin\Debug\net8.0\gestion_etudient.dll
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\bin\Debug\net8.0\gestion_etudient.pdb
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\obj\Debug\net8.0\gestion_etudient.dll
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\obj\Debug\net8.0\refint\gestion_etudient.dll
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\obj\Debug\net8.0\gestion_etudient.pdb
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\obj\Debug\net8.0\gestion_etudient.genruntimeconfig.cache
+C:\Users\med lemin\source\repos\gestion_etudient\gestion_etudient\obj\Debug\net8.0\ref\gestion_etudient.dll
